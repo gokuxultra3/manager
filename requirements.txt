@@ -1,0 +1,5 @@
+squarecloud-api
+python-dotenv
+discord
+mercadopago
+pymongo
