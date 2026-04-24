@@ -3,3 +3,4 @@ python-dotenv
 discord
 mercadopago
 pymongo
+discord.py
